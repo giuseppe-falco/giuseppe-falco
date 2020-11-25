@@ -10,7 +10,9 @@
 
 ### Connect with me:
 
+<!-- twitter -->
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" style="margin:0 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!-- linkedin -->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
@@ -24,6 +26,8 @@
 [<img align="left" alt="CSS3" width="36px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 <!-- sass -->
 [<img align="left" alt="Sass" width="36px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
+<!-- bootstrap -->
+[<img align="left" alt="Sass" width="36px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][cssplaylist]
 <!-- javascript -->
 [<img align="left" alt="JavaScript" width="36px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdevplaylist]
 <!-- vue -->
@@ -50,7 +54,7 @@
 <br />
 
 ---
-## Most Interesting Github Projects
+## :zap: Most Interesting Github Projects
 <details>
   <summary>Show</summary>
   
@@ -66,7 +70,7 @@
 
 ---
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peppe965&layout=compact)](https://github.com/gl-guccione/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peppe965&layout=compact)](https://github.com/peppe965/github-readme-stats)
 
 ## GitHub stathistics
 <img style="align:center" alt="peppe965's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=peppe965&show_icons=true&hide=stars&count_private=trueshow_icons=true" />
