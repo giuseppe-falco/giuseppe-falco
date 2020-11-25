@@ -4,6 +4,8 @@
 ## I'm a junior and passionate web developer from Italy
 
 - 🌱 I’m currently learning **Laravel, Vue.js** 
+.- 👨💻 All of my projects are available at [gl-guccione.tech](gl-guccione.tech)
+
 
 ### Spotify Playing 🎧
 
