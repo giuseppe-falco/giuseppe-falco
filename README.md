@@ -28,8 +28,10 @@
 [<img align="left" alt="JavaScript" width="36px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdevplaylist]
 <!-- vue -->
 [<img align="left" alt="Terminal" width="36px" style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" />][webdevplaylist]
+
 <br>
 <br>
+
 <!-- php -->
 [<img align="left" alt="Terminal" width="36px" style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" />][webdevplaylist]
 <!-- laravel -->
@@ -48,6 +50,22 @@
 <br />
 
 ---
+
+<details>
+  <summary>Most Interesting GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. ❌ AirBnb clone  [peppe965/boolBnb](https://github.com/peppe965/boolBnB-team3)
+2. 💻 Whatsapp Web  clone  [peppe965/boolzap](https://github.com/peppe965/js-html-css-boolzap)
+3. 🚧 ⏳ work in progress
+
+
+<!--END_SECTION:activity-->
+
+</details>
+
+
+
 
 *** wip ***
 
