@@ -64,6 +64,12 @@
 
 </details>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+  <img style="align:center" alt="peppe965's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=peppe965&show_icons=true&hide=stars&count_private=trueshow_icons=true" />
 
 
 
