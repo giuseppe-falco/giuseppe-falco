@@ -66,7 +66,7 @@
 
 ---
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peppe965&layout=compact)](https://github.com/gl-guccione/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peppe965&layout=compact)](https://github.com/peppe965/github-readme-stats)
 
 ## GitHub stathistics
 <img style="align:center" alt="peppe965's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=peppe965&show_icons=true&hide=stars&count_private=trueshow_icons=true" />
