@@ -17,29 +17,31 @@
 ### Languages and Tools:
 
 <!-- vs code -->
-[<img align="left" alt="Visual Studio Code" width="26px" style="margin:0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="36px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 <!-- html -->
-[<img align="left" alt="HTML5" width="26px" style="margin:0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="36px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 <!-- css -->
-[<img align="left" alt="CSS3" width="26px" style="margin:0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="CSS3" width="36px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 <!-- sass -->
-[<img align="left" alt="Sass" width="26px" style="margin:0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
+[<img align="left" alt="Sass" width="36px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 <!-- javascript -->
-[<img align="left" alt="JavaScript" width="26px" style="margin:0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdevplaylist]
-<!-- my sql -->
-[<img align="left" alt="MySQL" width="26px" style="margin:0 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" />][webdevplaylist]
-<!-- git -->
-[<img align="left" alt="Git" width="26px" style="margin:0 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](https://git-scm.com/)
-<!-- github -->
-[<img align="left" alt="GitHub" width="26px" style="margin:0 10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
-<!-- shell -->
-[<img align="left" alt="Terminal" width="26px" style="margin:0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="JavaScript" width="36px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdevplaylist]
 <!-- vue -->
-[<img align="left" alt="Terminal" width="26px" style="margin:0 10px" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="36px" style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" />][webdevplaylist]
+<br>
+<br>
 <!-- php -->
-[<img align="left" alt="Terminal" width="26px" style="margin:0 10px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="36px" style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" />][webdevplaylist]
 <!-- laravel -->
-[<img align="left" alt="Terminal" width="26px" style="margin:0 10px" src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="36px" style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" />][webdevplaylist]
+<!-- my sql -->
+[<img align="left" alt="MySQL" width="36px" style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" />][webdevplaylist]
+<!-- git -->
+[<img align="left" alt="Git" width="36px" style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](https://git-scm.com/)
+<!-- github -->
+[<img align="left" alt="GitHub" width="36px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
+<!-- shell -->
+[<img align="left" alt="Terminal" width="36px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 
 <br />
