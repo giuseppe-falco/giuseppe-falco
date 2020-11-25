@@ -1,7 +1,7 @@
 ## Hi there, I'm Giuseppe 👋
 
 
-### I'm a junior and passionate web developer from Italy
+### I'm a junior and passionate web developer from Italy 🇮🇹
 
 - 🌱 I’m currently learning **Laravel, Vue.js** 
 
@@ -50,19 +50,9 @@
 <br />
 
 ---
-
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peppe965&layout=compact)](https://github.com/gl-guccione/github-readme-stats)
-
-## GitHub stathistics
-<img style="align:center" alt="peppe965's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=peppe965&show_icons=true&hide=stars&count_private=trueshow_icons=true" />
-
-
----
-
-
+## Most Interesting Github Projects
 <details>
-  <summary>Most Interesting GitHub Activity</summary>
+  <summary>Show</summary>
   
 <!--START_SECTION:activity-->
 1. ❌ AirBnb clone  [peppe965/boolBnb](https://github.com/peppe965/boolBnB-team3)
@@ -73,6 +63,18 @@
 <!--END_SECTION:activity-->
 
 </details>
+
+---
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peppe965&layout=compact)](https://github.com/gl-guccione/github-readme-stats)
+
+## GitHub stathistics
+<img style="align:center" alt="peppe965's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=peppe965&show_icons=true&hide=stars&count_private=trueshow_icons=true" />
+
+
+---
+
+
 
 
 
