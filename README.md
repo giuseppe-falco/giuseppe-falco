@@ -15,7 +15,7 @@
 <!-- twitter -->
 [<img align="left" alt="peppe965 | Twitter" width="22px" style="margin:0 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <!-- telegram -->
-[<img align="left" alt="peppe965 | Telegram" width="22px" style="margin:0 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][twitter]
+[<img align="left" alt="peppe965 | Telegram" width="22px" style="margin:0 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
