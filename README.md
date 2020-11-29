@@ -10,10 +10,13 @@
 
 ### Connect with me:
 
-<!-- twitter -->
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" style="margin:0 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <!-- linkedin -->
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="peppe965 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- twitter -->
+[<img align="left" alt="peppe965 | Twitter" width="22px" style="margin:0 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!-- telegram -->
+[<img align="left" alt="peppe965 | Telegram" width="22px" style="margin:0 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][twitter]
+
 <br />
 
 ### Languages and Tools:
