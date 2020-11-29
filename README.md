@@ -91,7 +91,7 @@
 
 [website]: wip
 [twitter]: https://twitter.com/jopeppe
-[telegram]: t.me/j_f965
+[telegram]: https://t.me/j_f965
 [linkedin]: https://www.linkedin.com/in/falcogiuseppe/
 
 [webdevplaylist]: wip
