@@ -11,11 +11,11 @@
 ### Connect with me:
 
 <!-- linkedin -->
-[<img align="left" alt="peppe965 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="giuseppe-falco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- twitter -->
-[<img align="left" alt="peppe965 | Twitter" width="22px" style="margin:0 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="giuseppe-falco | Twitter" width="22px" style="margin:0 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <!-- telegram -->
-[<img align="left" alt="peppe965 | Telegram" width="22px" style="margin:0 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="giuseppe-falco | Telegram" width="22px" style="margin:0 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -62,8 +62,8 @@
   <summary>Show</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ AirBnb clone  [peppe965/boolBnb](https://github.com/peppe965/boolBnB-team3)
-2. 💻 Whatsapp Web  clone  [peppe965/boolzap](https://github.com/peppe965/js-html-css-boolzap)
+1. ❌ AirBnb clone  [giuseppe-falco/boolBnb](https://github.com/giuseppe-falco/boolBnB-team3)
+2. 💻 Whatsapp Web  clone  [giuseppe-falco/boolzap](https://github.com/giuseppe-falco/js-html-css-boolzap)
 3. 🚧 ⏳ work in progress
 
 
@@ -73,10 +73,10 @@
 
 ---
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peppe965&layout=compact)](https://github.com/peppe965/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppe-falco&layout=compact)](https://github.com/giuseppe-falco/github-readme-stats)
 
 ## GitHub stathistics
-<img style="align:center" alt="peppe965's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=peppe965&show_icons=true&hide=stars&count_private=trueshow_icons=true" />
+<img style="align:center" alt="giuseppe-falco's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=giuseppe-falco&show_icons=true&hide=stars&count_private=trueshow_icons=true" />
 
 
 ---
