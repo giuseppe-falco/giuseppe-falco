@@ -12,8 +12,6 @@
 
 <!-- linkedin -->
 [<img align="left" alt="giuseppe-falco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- twitter -->
-[<img align="left" alt="giuseppe-falco | Twitter" width="22px" style="margin:0 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <!-- telegram -->
 [<img align="left" alt="giuseppe-falco | Telegram" width="22px" style="margin:0 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
